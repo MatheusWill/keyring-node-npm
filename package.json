@@ -1,0 +1,12 @@
+{
+  "name": "keyring-node",
+  "version": "1.0.0",
+  "description": "Encryption-at-rest with key rotation made easy, incorporating seamless sequelize integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Willian de Oliveira <matheuswill6663@gmail.com>",
+  "license": "ISC"
+}
