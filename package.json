@@ -4,14 +4,14 @@
   "description": "Encryption-at-rest with key rotation made easy, incorporating seamless sequelize integration.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha 'test/**/*_test.js' --ui tdd"
   },
   "keywords": [],
   "author": "Matheus Willian de Oliveira <matheuswill6663@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.7",
-    "mocha": "^10.2.0",
+    "mocha": "*",
     "pg": "^8.11.1",
     "sequelize": "^6.32.1",
     "sqlite3": "^5.1.6"
