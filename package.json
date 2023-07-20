@@ -1,6 +1,6 @@
 {
   "name": "keyring-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encryption-at-rest with key rotation made easy, incorporating seamless sequelize integration.",
   "main": "keyring.js",
   "scripts": {
