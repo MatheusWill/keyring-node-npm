@@ -2,7 +2,7 @@
   "name": "keyring-node",
   "version": "1.0.0",
   "description": "Encryption-at-rest with key rotation made easy, incorporating seamless sequelize integration.",
-  "main": "index.js",
+  "main": "keyring.js",
   "scripts": {
     "test": "mocha 'test/**/*_test.js' --ui tdd"
   },
